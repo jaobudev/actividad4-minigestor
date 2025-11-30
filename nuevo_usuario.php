@@ -12,7 +12,7 @@ if ($_POST) {
 ?>
 
 <form method="POST">
-    <label>Nombre:</label>
+    <label>Nombre: </label>
     <input type="text" name="nombre" required>
-    <button type="submit">Guardar</button>
+    <button type="submit">Guardar </button>
 </form>
